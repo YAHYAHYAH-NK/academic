@@ -6,7 +6,8 @@
 
 **Graduate Student (M1)**  
 Takushoku University, Graduate School of International Cooperation  
-* Division of International Cooperation, Security Studies Course*
+* Division of Security Studies Course,
+  地域研究B
 
 ---
 
