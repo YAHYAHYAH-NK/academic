@@ -1,7 +1,22 @@
-Post Graduate Student at Takushoku Univ. International Corporation,Security Studies Course Masters Program M1
+# NOZAKI,Kenta
 
-Comparative Politics and Area Studies on TAIWAN,ROC
+![](https://img.shields.io/badge/Takushoku_Univ.-Graduate_School-1B365D?style=flat-square)
+![](https://img.shields.io/badge/Major-Security_Studies-2B4C7E?style=flat-square)
+![](https://img.shields.io/badge/Degree-Master's_(M1)-4A5568?style=flat-square)
 
-アジア政経学会JAAS・日本台湾学会JATS
+**Graduate Student (M1)**  
+Takushoku University, Graduate School of International Cooperation  
+* Division of International Cooperation, Security Studies Course*
 
-alumnus of Gakushuin University Faculty of LAW Bachelor of Political Studies
+---
+
+### Research Focus
+* **Comparative Politics** & **Area Studies on Taiwan (ROC)**
+
+### Academic Societies
+* **JAAS** — Japan Association for Asian Studies (アジア政経学会)
+* **JATS** — Japan Association for Taiwan Studies (日本台湾学会)
+
+### Education
+* **M.A. Student in Security Studies** | Takushoku University *(Present)*
+* **Bachelor of Political Studies** | Gakushuin University, Faculty of Law
